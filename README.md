@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a cloud architech and technical trainer
+i am a cloud architech and technical trainer.
 
 
 # 💻 Tech Stack:
